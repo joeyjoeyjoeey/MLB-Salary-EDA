@@ -1,1 +1,1 @@
-# MLB-Salary-Eda
+# MLB-Salary-EDA
